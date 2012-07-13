@@ -1,4 +1,6 @@
-/app/config
-/app/tmp
-/plugins
-/vendors
+#/app/config
+#/app/tmp
+#/plugins
+#/vendors
+/tmp
+/lib
