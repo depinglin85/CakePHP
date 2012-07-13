@@ -2,5 +2,5 @@
 #/app/tmp
 #/plugins
 #/vendors
-/tmp
-/lib
+tmp/
+lib/*

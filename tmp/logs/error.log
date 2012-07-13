@@ -1304,3 +1304,9 @@
 2012-07-13 17:50:16 Error: [MissingControllerException] Controller class CssController could not be found.
 #0 C:\xampp\htdocs\Framework\docroot\index.php(123): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
 #1 {main}
+2012-07-13 17:52:45 Error: [MissingControllerException] Controller class CssController could not be found.
+#0 C:\xampp\htdocs\Framework\docroot\index.php(123): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2012-07-13 17:52:45 Error: [MissingControllerException] Controller class JsController could not be found.
+#0 C:\xampp\htdocs\Framework\docroot\index.php(123): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
